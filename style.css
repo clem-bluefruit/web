@@ -1,0 +1,13 @@
+body {
+    background: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+
+h1 {
+    color:blue;
+}
+
+#noShow, .alsoHidden {
+    display:none;
+}
